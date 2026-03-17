@@ -92,7 +92,8 @@
     "Category": "Chips",
     "Price": "30,000",
     "Code": "6924514651741",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/ringo_flavored_chips.jpg"
   },
   {
     "Product Name": "Ringo slices 30 g",
@@ -982,70 +983,80 @@
     "Category": "Miscellaneous",
     "Price": "100,000",
     "Code": "1233",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/force_805.jpg"
   },
   {
     "Product Name": "garbage bags big size",
     "Category": "Miscellaneous",
     "Price": "60,000",
     "Code": "298",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/garbage_bags_big_size.jpg"
   },
   {
     "Product Name": "garbage bags small",
     "Category": "Miscellaneous",
     "Price": "50,000",
     "Code": "297",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/garbage_bags_small.jpg"
   },
   {
     "Product Name": "Gillette Blue II",
     "Category": "Miscellaneous",
     "Price": "40,000",
     "Code": "1323",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/gillette_blue_ii.jpg"
   },
   {
     "Product Name": "Food Plastic Bag",
     "Category": "Miscellaneous",
     "Price": "40,000",
     "Code": "1430",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/food_plastic_bag.jpg"
   },
   {
     "Product Name": "Cat Food can 415g",
     "Category": "Pet Food",
     "Price": "90,000",
     "Code": "1405",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/cat_food_can_415g.jpg"
   },
   {
     "Product Name": "Draw and Color",
     "Category": "Stationery",
     "Price": "50,000",
     "Code": "1472",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/draw_and_color.jpg"
   },
   {
     "Product Name": "highlighter Pen",
     "Category": "Stationery",
     "Price": "40,000",
     "Code": "6924514651677",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/highlighter_pen.jpg"
   },
   {
     "Product Name": "glue stick  21g",
     "Category": "Stationery",
     "Price": "70,000",
     "Code": "6924514651669",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/glue_stick__21g.jpg"
   },
   {
     "Product Name": "Geometric box Map new max ",
     "Category": "Stationery",
     "Price": "150,000",
     "Code": "6924514651667",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/geometric_box_map_new_max_.jpg"
   },
   {
     "Product Name": "Eraser Toy",
@@ -1059,7 +1070,8 @@
     "Category": "Stationery",
     "Price": "15,000",
     "Code": "6924514651663",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/eraser_oneway.jpg"
   },
   {
     "Product Name": "Dax Top Pen",
@@ -1080,35 +1092,40 @@
     "Category": "Stationery",
     "Price": "50,000",
     "Code": "6924514651662",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/correction_pen.jpg"
   },
   {
     "Product Name": "Bic Pen",
     "Category": "Stationery",
     "Price": "25,000",
     "Code": "6924514652379",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/bic_pen.jpg"
   },
   {
     "Product Name": "Berayi with cover",
     "Category": "Stationery",
     "Price": "50,000",
     "Code": "1572",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/berayi_with_cover.jpg"
   },
   {
     "Product Name": "Launch Box",
     "Category": "Stationery",
     "Price": "170,000",
     "Code": "6924514652381",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/launch_box.jpg"
   },
   {
     "Product Name": "Agenda paper cover",
     "Category": "Stationery",
     "Price": "85,000",
     "Code": "6924514651668",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/agenda_paper_cover.jpg"
   },
   {
     "Product Name": "A4 Paper Jam 80g",
@@ -1122,42 +1139,48 @@
     "Category": "Stationery",
     "Price": "80,000",
     "Code": "6924514652375",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/5_five_subject_80_sheets.jpg"
   },
   {
     "Product Name": "Corvet sliced book cover ",
     "Category": "Stationery",
     "Price": "120,000",
     "Code": "6924514651676",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/corvet_sliced_book_cover_.jpg"
   },
   {
     "Product Name": "Launch Box with Bottle",
     "Category": "Stationery",
     "Price": "350,000",
     "Code": "6924514652382",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/launch_box_with_bottle.jpg"
   },
   {
     "Product Name": "oneway 12 color long pencils",
     "Category": "Stationery",
     "Price": "70,000",
     "Code": "1537",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/oneway_12_color_long_pencils.jpg"
   },
   {
     "Product Name": "Notebook 5 Subjects plastic cover 100 sheets ",
     "Category": "Stationery",
     "Price": "190,000",
     "Code": "1469",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/notebook_5_subjects_plastic_cover_100_sheets_.jpg"
   },
   {
     "Product Name": "yalong Ball Point Pen",
     "Category": "Stationery",
     "Price": "15,000",
     "Code": "6924514651660",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/yalong_ball_point_pen.jpg"
   },
   {
     "Product Name": "wood ruler Penguin",
@@ -1171,49 +1194,56 @@
     "Category": "Stationery",
     "Price": "300,000",
     "Code": "6924514652383",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/water_bottle_vaccum.jpg"
   },
   {
     "Product Name": "university notebook 72 sheets",
     "Category": "Stationery",
     "Price": "100,000",
     "Code": "6924514652376",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/university_notebook_72_sheets.jpg"
   },
   {
     "Product Name": "Staples",
     "Category": "Stationery",
     "Price": "30,000",
     "Code": "6924514651777",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/staples.jpg"
   },
   {
     "Product Name": "Stapler",
     "Category": "Stationery",
     "Price": "170,000",
     "Code": "6924514652380",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/stapler.jpg"
   },
   {
     "Product Name": "Plastic Ruler 30cm",
     "Category": "Stationery",
     "Price": "25,000",
     "Code": "1538",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/plastic_ruler_30cm.jpg"
   },
   {
     "Product Name": "Pen Shoes",
     "Category": "Stationery",
     "Price": "70,000",
     "Code": "6924514652385",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pen_shoes.jpg"
   },
   {
     "Product Name": "pen and Highlighter",
     "Category": "Stationery",
     "Price": "70,000",
     "Code": "1571",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pen_and_highlighter.jpg"
   },
   {
     "Product Name": "paper protect chemise monza",
