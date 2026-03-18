@@ -1076,105 +1076,120 @@
     "Category": "cleaning and detergents",
     "Price": "100,000",
     "Code": "6924514652032",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/la_croix_javel_1l.jpg"
   },
   {
     "Product Name": "lets glass cleaner",
     "Category": "cleaning and detergents",
     "Price": "100,000",
     "Code": "6924514651356",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/lets_glass_cleaner.jpg"
   },
   {
     "Product Name": "lets laundry liquid 2L",
     "Category": "cleaning and detergents",
     "Price": "420,000",
     "Code": "6924514651751",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/lets_laundry_liquid_2l.jpg"
   },
   {
     "Product Name": "lets laundry powder 4KG",
     "Category": "cleaning and detergents",
     "Price": "850,000",
     "Code": "683",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/lets_laundry_powder_4kg.jpg"
   },
   {
     "Product Name": "lifeboy soap",
     "Category": "cleaning and detergents",
     "Price": "60,000",
     "Code": "302",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/lifeboy_soap.jpg"
   },
   {
     "Product Name": "Hamol Shampoo 400ml",
     "Category": "cleaning and detergents",
     "Price": "200,000",
     "Code": "6924514651945",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/hamol_shampoo_400ml.jpg"
   },
   {
     "Product Name": "Madar Laundry Powder 1350g",
     "Category": "cleaning and detergents",
     "Price": "225,000",
     "Code": "6924514652344",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/madar_laundry_powder_1350g.jpg"
   },
   {
     "Product Name": "Nail polish remover ElSada",
     "Category": "cleaning and detergents",
     "Price": "65,000",
     "Code": "6924514651529",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/nail_polish_remover_elsada.jpg"
   },
   {
     "Product Name": "cosmaline normal shampoo 500 ml",
     "Category": "cleaning and detergents",
     "Price": "220,000",
     "Code": "582",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/cosmaline_normal_shampoo_500_ml.jpg"
   },
   {
     "Product Name": "odex bleach javel 1200ml",
     "Category": "cleaning and detergents",
     "Price": "120,000",
     "Code": "1218",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/odex_bleach_javel_1200ml.jpg"
   },
   {
     "Product Name": "Pantene Hair Conditioner 180ml",
     "Category": "cleaning and detergents",
     "Price": "190,000",
     "Code": "6924514652356",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pantene_hair_conditioner_180ml.jpg"
   },
   {
     "Product Name": "pantene shampoo 400ml",
     "Category": "cleaning and detergents",
     "Price": "330,000",
     "Code": "52",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pantene_shampoo_400ml.jpg"
   },
   {
     "Product Name": "Persil Laundry Powder 2 kg",
     "Category": "cleaning and detergents",
     "Price": "520,000",
     "Code": "1087",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/persil_laundry_powder_2_kg.jpg"
   },
   {
     "Product Name": "Pump Nail polish remover ElSada",
     "Category": "cleaning and detergents",
     "Price": "80,000",
     "Code": "6924514651530",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pump_nail_polish_remover_elsada.jpg"
   },
   {
     "Product Name": "detol soap 100g",
     "Category": "cleaning and detergents",
     "Price": "55,000",
     "Code": "914",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/detol_soap_100g.jpg"
   },
   {
     "Product Name": "dimex general cleaner 800ml",
@@ -1188,42 +1203,48 @@
     "Category": "cleaning and detergents",
     "Price": "70,000",
     "Code": "6924514652119",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/dimex_glass_cleaner.jpg"
   },
   {
     "Product Name": "Dimex Multi surface cleaning cream 500ml",
     "Category": "cleaning and detergents",
     "Price": "130,000",
     "Code": "252200",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/dimex_multi_surface_cleaning_cream_500ml.jpg"
   },
   {
     "Product Name": "Dimex Power Gel laundry 6Kg",
     "Category": "cleaning and detergents",
     "Price": "300,000",
     "Code": "6924514652060",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/dimex_power_gel_laundry_6kg.jpg"
   },
   {
     "Product Name": "dimex steriol 500ml",
     "Category": "cleaning and detergents",
     "Price": "130,000",
     "Code": "6924514651447",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/dimex_steriol_500ml.jpg"
   },
   {
     "Product Name": "Dove Shampoo 450ml",
     "Category": "cleaning and detergents",
     "Price": "270,000",
     "Code": "1781",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/dove_shampoo_450ml.jpg"
   },
   {
     "Product Name": "Dove Shampoo 600ml",
     "Category": "cleaning and detergents",
     "Price": "420,000",
     "Code": "1782",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/dove_shampoo_600ml.jpg"
   },
   {
     "Product Name": "dove soap",
@@ -1419,6 +1440,13 @@
     "Category": "diaries",
     "Price": "280,000",
     "Code": "6924514652211",
+    "imageLink": ""
+  },
+  {
+    "Product Name": "Laban Baladi 1kg",
+    "Category": "diaries",
+    "Price": "100,000",
+    "Code": "100100",
     "imageLink": ""
   },
   {
