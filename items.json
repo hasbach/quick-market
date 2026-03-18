@@ -911,7 +911,8 @@
     "Category": "Miscellaneous",
     "Price": "100,000",
     "Code": "1642",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/hengtuo_large_tape.jpg"
   },
   {
     "Product Name": "helek powder",
@@ -2283,7 +2284,8 @@
     "Category": "cigarettes and molassal",
     "Price": "70,000",
     "Code": "146",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/captain_black_cigarettes.jpg"
   },
   {
     "Product Name": "Blends Cigarette",
@@ -2297,14 +2299,16 @@
     "Category": "cigarettes and molassal",
     "Price": "300,000",
     "Code": "631",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/apple_snake_250g.jpg"
   },
   {
     "Product Name": "apple gold egyptian black 250g",
     "Category": "cigarettes and molassal",
     "Price": "264,000",
     "Code": "709",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/apple_gold_egyptian_black_250g.jpg"
   },
   {
     "Product Name": "al oustoura apple 50g",
@@ -2318,49 +2322,56 @@
     "Category": "cigarettes and molassal",
     "Price": "70,000",
     "Code": "141",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/al_arrab_lemon_and_mint_50g.jpg"
   },
   {
     "Product Name": "al arrab apple 250g",
     "Category": "cigarettes and molassal",
     "Price": "470,000",
     "Code": "1379",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/al_arrab_apple_250g.jpg"
   },
   {
     "Product Name": "1970 super slim",
     "Category": "cigarettes and molassal",
     "Price": "50,000",
     "Code": "913",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/1970_super_slim.jpg"
   },
   {
     "Product Name": "1970 large silver",
     "Category": "cigarettes and molassal",
     "Price": "50,000",
     "Code": "6924514651959",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/1970_large_silver.jpg"
   },
   {
     "Product Name": "Gauloises yellow",
     "Category": "cigarettes and molassal",
     "Price": "102,000",
     "Code": "130",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/gauloises_yellow.jpg"
   },
   {
     "Product Name": "winchester wara2",
     "Category": "cigarettes and molassal",
     "Price": "95,000",
     "Code": "127",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/winchester_wara2.jpg"
   },
   {
     "Product Name": "AMBI PUR natural floor cleaner 3L",
     "Category": "cleaning and detergents",
     "Price": "217,000",
     "Code": "1261",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/ambi_pur_natural_floor_cleaner_3l.jpg"
   },
   {
     "Product Name": "Dali shower gel",
@@ -6714,8 +6725,8 @@
     "Category": "snacks and candy",
     "Price": "60,000",
     "Code": "158",
-    "imageLink": "marschocolate.jpg",
-    "localImage": "marschocolate.jpg"
+    "imageLink": "/images/mars_chocolate.jpg",
+    "localImage": "/images/mars_chocolate.jpg"
   },
   {
     "Product Name": "Maretti Bruschette chips 70g",
