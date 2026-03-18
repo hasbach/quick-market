@@ -156,7 +156,8 @@
     "Category": "Frozen",
     "Price": "220,000",
     "Code": "6924514651902",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/aflora_green_peas_and_carrot_400g.jpg"
   },
   {
     "Product Name": "Broasted Chicken Tip Top 800g",
@@ -1948,49 +1949,56 @@
     "Category": "canned food",
     "Price": "90,000",
     "Code": "252103",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/magic_chef_lodized_salt_with_fluoride_carton.jpg"
   },
   {
     "Product Name": "Magic chef low sodium 350g",
     "Category": "canned food",
     "Price": "130,000",
     "Code": "252102",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/magic_chef_low_sodium_350g.jpg"
   },
   {
     "Product Name": "Macrol White Vinegar 1.3L",
     "Category": "canned food",
     "Price": "50,000",
     "Code": "1518",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/macrol_white_vinegar_1_3l.jpg"
   },
   {
     "Product Name": "Lio Sweet Corn 380g",
     "Category": "canned food",
     "Price": "70,000",
     "Code": "252269",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/lio_sweet_corn_380g.jpg"
   },
   {
     "Product Name": "khamira domo",
     "Category": "canned food",
     "Price": "15,000",
     "Code": "257",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/khamira_domo.jpg"
   },
   {
     "Product Name": "khamira aruba",
     "Category": "canned food",
     "Price": "12,000",
     "Code": "6924514651461",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/khamira_aruba.jpg"
   },
   {
     "Product Name": "Ketchup Top Notch 340g",
     "Category": "canned food",
     "Price": "100,000",
     "Code": "6924514651911",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/ketchup_top_notch_340g.jpg"
   },
   {
     "Product Name": "Al Khawabi Hot Chilli paste 600g",
@@ -2004,42 +2012,48 @@
     "Category": "canned food",
     "Price": "50,000",
     "Code": "1219",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/hummus_bl_tahini_chtoura_land_400g.jpg"
   },
   {
     "Product Name": "maggi bechamel mix",
     "Category": "canned food",
     "Price": "50,000",
     "Code": "6924514651717",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/maggi_bechamel_mix.jpg"
   },
   {
     "Product Name": "PL SOL MOZARELLA 200GR FLT",
     "Category": "cheese",
     "Price": "180,000",
     "Code": "1182",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pl_sol_mozarella_200gr_flt.jpg"
   },
   {
     "Product Name": "Taanayel Akkaoui cheese 350g",
     "Category": "cheese",
     "Price": "360,000",
     "Code": "1328",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/taanayel_akkaoui_cheese_350g.jpg"
   },
   {
     "Product Name": "SMEDS Processed cheese 400g",
     "Category": "cheese",
     "Price": "280,000",
     "Code": "1352",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/smeds_processed_cheese_400g.jpg"
   },
   {
     "Product Name": "Puck Shredded Mozarella 300g",
     "Category": "cheese",
     "Price": "200,000",
     "Code": "1369",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/puck_shredded_mozarella_300g.jpg"
   },
   {
     "Product Name": "Puck Shredded Mozarella 1.8kg",
