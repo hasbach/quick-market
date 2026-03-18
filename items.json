@@ -1829,14 +1829,16 @@
     "Category": "canned food",
     "Price": "60,000",
     "Code": "6924514651420",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/avila_beans_and_chickpeas_400gr.jpg"
   },
   {
     "Product Name": "Apple Vinegar Golden Jar 500ml",
     "Category": "canned food",
     "Price": "160,000",
     "Code": "1331",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/apple_vinegar_golden_jar_500ml.jpg"
   },
   {
     "Product Name": "nalty spread 350g",
@@ -1850,84 +1852,96 @@
     "Category": "canned food",
     "Price": "60,000",
     "Code": "1598",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/chtoura_fields_green_peas_400g.jpg"
   },
   {
     "Product Name": "Harvest Beans With Chickpeas 400g",
     "Category": "canned food",
     "Price": "50,000",
     "Code": "1765",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/harvest_beans_with_chickpeas_400g.jpg"
   },
   {
     "Product Name": "green peas M chtoura 400g",
     "Category": "canned food",
     "Price": "45,000",
     "Code": "18",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/green_peas_m_chtoura_400g.jpg"
   },
   {
     "Product Name": "Al Maraa Sliced Mushrooms 400g",
     "Category": "canned food",
     "Price": "70,000",
     "Code": "252177",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/al_maraa_sliced_mushrooms_400g.jpg"
   },
   {
     "Product Name": "mortadela beef taghzia 200g",
     "Category": "canned food",
     "Price": "90,000",
     "Code": "13",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/mortadela_beef_taghzia_200g.jpg"
   },
   {
     "Product Name": "MIA mayonnaise 250g",
     "Category": "canned food",
     "Price": "80,000",
     "Code": "8",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/mia_mayonnaise_250g.jpg"
   },
   {
     "Product Name": "Mega one Green peas 850g",
     "Category": "canned food",
     "Price": "100,000",
     "Code": "252238",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/mega_one_green_peas_850g.jpg"
   },
   {
     "Product Name": "marwa tomato paste 400g",
     "Category": "canned food",
     "Price": "120,000",
     "Code": "702",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/marwa_tomato_paste_400g.jpg"
   },
   {
     "Product Name": "Makdous Namlyetna 500g",
     "Category": "canned food",
     "Price": "300,000",
     "Code": "1390",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/makdous_namlyetna_500g.jpg"
   },
   {
     "Product Name": "Makdous Namlyetna 1350g",
     "Category": "canned food",
     "Price": "600,000",
     "Code": "1389",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/makdous_namlyetna_1350g.jpg"
   },
   {
     "Product Name": "Holiday Tuna 120g",
     "Category": "canned food",
     "Price": "100,000",
     "Code": "1624",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/holiday_tuna_120g.jpg"
   },
   {
     "Product Name": "Magic chef low sodium 150g",
     "Category": "canned food",
     "Price": "70,000",
     "Code": "6924514651631",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/magic_chef_low_sodium_150g.jpg"
   },
   {
     "Product Name": "Magic chef lodized salt with fluoride carton",
@@ -6659,7 +6673,8 @@
     "Category": "snacks and candy",
     "Price": "60,000",
     "Code": "158",
-    "imageLink": ""
+    "imageLink": "public/images/marschocolate.jpg",
+    "localImage": "public/images/marschocolate.jpg"
   },
   {
     "Product Name": "Maretti Bruschette chips 70g",
