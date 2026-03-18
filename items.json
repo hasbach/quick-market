@@ -2172,77 +2172,88 @@
     "Category": "cigarettes and molassal",
     "Price": "150,000",
     "Code": "125",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/marlboro_white_craft.jpg"
   },
   {
     "Product Name": "Mego super slim Cigarettes",
     "Category": "cigarettes and molassal",
     "Price": "50,000",
     "Code": "1450",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/mego_super_slim_cigarettes.jpg"
   },
   {
     "Product Name": "TEREA Cigarettes",
     "Category": "cigarettes and molassal",
     "Price": "220,000",
     "Code": "1498",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/terea_cigarettes.jpg"
   },
   {
     "Product Name": "mazaya lemon and mint 50g",
     "Category": "cigarettes and molassal",
     "Price": "120,000",
     "Code": "143",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/mazaya_lemon_and_mint_50g.jpg"
   },
   {
     "Product Name": "moures blue",
     "Category": "cigarettes and molassal",
     "Price": "38,000",
     "Code": "134",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/moures_blue.jpg"
   },
   {
     "Product Name": "moures blue queen",
     "Category": "cigarettes and molassal",
     "Price": "42,000",
     "Code": "245",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/moures_blue_queen.jpg"
   },
   {
     "Product Name": "moures silver",
     "Category": "cigarettes and molassal",
     "Price": "36,000",
     "Code": "135",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/moures_silver.jpg"
   },
   {
     "Product Name": "Master Cigarettes",
     "Category": "cigarettes and molassal",
     "Price": "70,000",
     "Code": "6924514652110",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/master_cigarettes.jpg"
   },
   {
     "Product Name": "heets dimensions",
     "Category": "cigarettes and molassal",
     "Price": "150,000",
     "Code": "1046",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/heets_dimensions.jpg"
   },
   {
     "Product Name": "Davidoff KS Evolve",
     "Category": "cigarettes and molassal",
     "Price": "130,000",
     "Code": "132",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/davidoff_ks_evolve.jpg"
   },
   {
     "Product Name": "elegance wara2",
     "Category": "cigarettes and molassal",
     "Price": "60,000",
     "Code": "136",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/elegance_wara2.jpg"
   },
   {
     "Product Name": "cedars super slim silv",
@@ -2256,14 +2267,16 @@
     "Category": "cigarettes and molassal",
     "Price": "70,000",
     "Code": "122",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/cedars_old.jpg"
   },
   {
     "Product Name": "cedars blue",
     "Category": "cigarettes and molassal",
     "Price": "75,000",
     "Code": "120",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/cedars_blue.jpg"
   },
   {
     "Product Name": "captain black cigarettes",
@@ -6697,7 +6710,7 @@
     "imageLink": ""
   },
   {
-    "Product Name": "Mars",
+    "Product Name": "Mars chocolate",
     "Category": "snacks and candy",
     "Price": "60,000",
     "Code": "158",
