@@ -345,7 +345,8 @@
     "Category": "Miscellaneous",
     "Price": "25,000",
     "Code": "593",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/astor_bic_1_piece.jpg"
   },
   {
     "Product Name": "powder cockroach killing bait",
@@ -384,7 +385,8 @@
     "Category": "Miscellaneous",
     "Price": "80,000",
     "Code": "355",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/plastic_maknasa.jpg"
   },
   {
     "Product Name": "Plastic eco Cups x100",
@@ -494,14 +496,16 @@
     "Category": "Miscellaneous",
     "Price": "18,000",
     "Code": "398",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/women_socks.jpg"
   },
   {
     "Product Name": "tips argili",
     "Category": "Miscellaneous",
     "Price": "20,000",
     "Code": "338",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/tips_argili.jpg"
   },
   {
     "Product Name": "Voltran gas 300ml",
@@ -580,7 +584,8 @@
     "Category": "Miscellaneous",
     "Price": "90,000",
     "Code": "559",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/perla_aluminium_foil.jpg"
   },
   {
     "Product Name": "sif OKS 1 piece 40g",
@@ -1132,7 +1137,8 @@
     "Category": "Stationery",
     "Price": "400,000",
     "Code": "1539",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/a4_paper_jam_80g.jpg"
   },
   {
     "Product Name": "5 five Subject 80 sheets",
@@ -1187,7 +1193,8 @@
     "Category": "Stationery",
     "Price": "20,000",
     "Code": "6924514651679",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/wood_ruler_penguin.jpg"
   },
   {
     "Product Name": "Water Bottle Vaccum",
@@ -1250,7 +1257,8 @@
     "Category": "Stationery",
     "Price": "40,000",
     "Code": "6924514651680",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/paper_protect_chemise_monza.jpg"
   },
   {
     "Product Name": "OneWay Pencils x12",
@@ -1289,7 +1297,8 @@
     "Category": "Stationery",
     "Price": "30,000",
     "Code": "6924514651657",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/notebook_corvet_48sh.jpg"
   },
   {
     "Product Name": "Notebook 5 colors ",
@@ -1525,70 +1534,80 @@
     "Category": "canned food",
     "Price": "60,000",
     "Code": "1425",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/taj_premium_soup_50g.jpg"
   },
   {
     "Product Name": "vanilla domo",
     "Category": "canned food",
     "Price": "15,000",
     "Code": "255",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/vanilla_domo.jpg"
   },
   {
     "Product Name": "Taj Soup 60g",
     "Category": "canned food",
     "Price": "50,000",
     "Code": "258",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/taj_soup_60g.jpg"
   },
   {
     "Product Name": "PL SOL SQUEEZE MAYO 450ML disabled",
     "Category": "canned food",
     "Price": "355,000",
     "Code": "nan",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pl_sol_squeeze_mayo_450ml_disabled.jpg"
   },
   {
     "Product Name": "pl ananas deactivated",
     "Category": "canned food",
     "Price": "240,000",
     "Code": "nan",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pl_ananas_deactivated.jpg"
   },
   {
     "Product Name": "Zwan hotdog 400g",
     "Category": "canned food",
     "Price": "230,000",
     "Code": "1324",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/zwan_hotdog_400g.jpg"
   },
   {
     "Product Name": "Zwan Chicken 850g",
     "Category": "canned food",
     "Price": "720,000",
     "Code": "1747",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/zwan_chicken_850g.jpg"
   },
   {
     "Product Name": "Zwan chicken 340gr ",
     "Category": "canned food",
     "Price": "300,000",
     "Code": "1748",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/zwan_chicken_340gr_.jpg"
   },
   {
     "Product Name": "Zwan chicken 200gr ",
     "Category": "canned food",
     "Price": "200,000",
     "Code": "6924514651568",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/zwan_chicken_200gr_.jpg"
   },
   {
     "Product Name": "Zwan Beef 850g",
     "Category": "canned food",
     "Price": "850,000",
     "Code": "1746",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/zwan_beef_850g.jpg"
   },
   {
     "Product Name": "Yamama White Vinegar 1L",
@@ -1602,77 +1621,88 @@
     "Category": "canned food",
     "Price": "110,000",
     "Code": "1312",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/yamama_tomato_paste_320g.jpg"
   },
   {
     "Product Name": "YAMAMA 750ml pomegrenade hone",
     "Category": "canned food",
     "Price": "270,000",
     "Code": "20",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/yamama_750ml_pomegrenade_hone.jpg"
   },
   {
     "Product Name": "YAMAMA 300ml pomegrenade",
     "Category": "canned food",
     "Price": "160,000",
     "Code": "19",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/yamama_300ml_pomegrenade.jpg"
   },
   {
     "Product Name": "Yalanji Malaki Sham Garden 400g",
     "Category": "canned food",
     "Price": "150,000",
     "Code": "6924514652355",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/yalanji_malaki_sham_garden_400g.jpg"
   },
   {
     "Product Name": "xtra ketshup sweet 340 g",
     "Category": "canned food",
     "Price": "70,000",
     "Code": "545",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/xtra_ketshup_sweet_340_g.jpg"
   },
   {
     "Product Name": "xtra hot ketchup 340g",
     "Category": "canned food",
     "Price": "67,000",
     "Code": "266",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/xtra_hot_ketchup_340g.jpg"
   },
   {
     "Product Name": "Namlya Beans and chickpeas 400g",
     "Category": "canned food",
     "Price": "55,000",
     "Code": "1738",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/namlya_beans_and_chickpeas_400g.jpg"
   },
   {
     "Product Name": "Top Notch Mayonnaise 235ml",
     "Category": "canned food",
     "Price": "90,000",
     "Code": "1427",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/top_notch_mayonnaise_235ml.jpg"
   },
   {
     "Product Name": "taj white vinegar 1L",
     "Category": "canned food",
     "Price": "70,000",
     "Code": "6924514651913",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/taj_white_vinegar_1l.jpg"
   },
   {
     "Product Name": "Taj Rose Blossom Water 250ml",
     "Category": "canned food",
     "Price": "110,000",
     "Code": "1561",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/taj_rose_blossom_water_250ml.jpg"
   },
   {
     "Product Name": "Namlya Beans 400g",
     "Category": "canned food",
     "Price": "50,000",
     "Code": "1737",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/namlya_beans_400g.jpg"
   },
   {
     "Product Name": "squeezed lemonade denker 1L",
