@@ -1257,28 +1257,32 @@
     "Category": "Stationery",
     "Price": "10,000",
     "Code": "6924514651661",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/oneway_pencils_x12.jpg"
   },
   {
     "Product Name": "oneway 12 wax crayon ",
     "Category": "Stationery",
     "Price": "50,000",
     "Code": "6924514651664",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/oneway_12_wax_crayon_.jpg"
   },
   {
     "Product Name": "oneway 12 color durable pen",
     "Category": "Stationery",
     "Price": "70,000",
     "Code": "6924514651665",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/oneway_12_color_durable_pen.jpg"
   },
   {
     "Product Name": "Notebook stickers",
     "Category": "Stationery",
     "Price": "10,000",
     "Code": "6924514651681",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/notebook_stickers.jpg"
   },
   {
     "Product Name": "Notebook corvet 48sh",
@@ -1292,70 +1296,80 @@
     "Category": "Stationery",
     "Price": "90,000",
     "Code": "6924514651671",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/notebook_5_colors_.jpg"
   },
   {
     "Product Name": "Ruler corvet",
     "Category": "Stationery",
     "Price": "85,000",
     "Code": "6924514651678",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/ruler_corvet.jpg"
   },
   {
     "Product Name": "Alforno Tortilla Bread",
     "Category": "bread",
     "Price": "290,000",
     "Code": "252253",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/alforno_tortilla_bread.jpg"
   },
   {
     "Product Name": "Ridani Kaak Crushed",
     "Category": "bread",
     "Price": "80,000",
     "Code": "252274",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/ridani_kaak_crushed.jpg"
   },
   {
     "Product Name": "Burger and Fahita Bun ISSA",
     "Category": "bread",
     "Price": "85,000",
     "Code": "6924514652138",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/burger_and_fahita_bun_issa.jpg"
   },
   {
     "Product Name": "Chamsine Brown Toast",
     "Category": "bread",
     "Price": "140,000",
     "Code": "1519",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/chamsine_brown_toast.jpg"
   },
   {
     "Product Name": "Chamsine Croissant",
     "Category": "bread",
     "Price": "50,000",
     "Code": "1520",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/chamsine_croissant.jpg"
   },
   {
     "Product Name": "Chamsine Pain au Lait",
     "Category": "bread",
     "Price": "125,000",
     "Code": "1514",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/chamsine_pain_au_lait.jpg"
   },
   {
     "Product Name": "croissant and coconut baydoun ",
     "Category": "bread",
     "Price": "35,000",
     "Code": "981",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/croissant_and_coconut_baydoun_.jpg"
   },
   {
     "Product Name": "fresh bakery oat and bran",
     "Category": "bread",
     "Price": "60,000",
     "Code": "6924514652137",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/fresh_bakery_oat_and_bran.jpg"
   },
   {
     "Product Name": "kaak issa",
@@ -1369,56 +1383,64 @@
     "Category": "canned food",
     "Price": "150,000",
     "Code": "1176",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pl_sol_mustard_255ml.jpg"
   },
   {
     "Product Name": "PL SOL SARDINE CHILI HOT OIL 125 GR",
     "Category": "canned food",
     "Price": "100,000",
     "Code": "1178",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pl_sol_sardine_chili_hot_oil_125_gr.jpg"
   },
   {
     "Product Name": "PL SOL SARDINES OIL 125GR",
     "Category": "canned food",
     "Price": "100,000",
     "Code": "1177",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pl_sol_sardines_oil_125gr.jpg"
   },
   {
     "Product Name": "Tahina Alameddine 400g",
     "Category": "canned food",
     "Price": "190,000",
     "Code": "6924514652064",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/tahina_alameddine_400g.jpg"
   },
   {
     "Product Name": "Queen Tuna 185g",
     "Category": "canned food",
     "Price": "160,000",
     "Code": "6924514652174",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/queen_tuna_185g.jpg"
   },
   {
     "Product Name": "Sweet Corn Green Forest 340g",
     "Category": "canned food",
     "Price": "75,000",
     "Code": "6924514651979",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/sweet_corn_green_forest_340g.jpg"
   },
   {
     "Product Name": "pl sol mayo + bbq promo",
     "Category": "canned food",
     "Price": "450,000",
     "Code": "1807",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pl_sol_mayo___bbq_promo.jpg"
   },
   {
     "Product Name": "PL SOL white tuna 185g",
     "Category": "canned food",
     "Price": "160,000",
     "Code": "6924514651806",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/pl_sol_white_tuna_185g.jpg"
   },
   {
     "Product Name": "PL SOL Glass SLICED MUSHROOMS 280GR",
@@ -1432,28 +1454,32 @@
     "Category": "canned food",
     "Price": "60,000",
     "Code": "6924514652059",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/nina_sweet_corn_340g.jpg"
   },
   {
     "Product Name": "peanut butter 250gr taj ",
     "Category": "canned food",
     "Price": "200,000",
     "Code": "6924514651509",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/peanut_butter_250gr_taj_.jpg"
   },
   {
     "Product Name": "Olive Mehche Greenland 500g",
     "Category": "canned food",
     "Price": "420,000",
     "Code": "1293",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/olive_mehche_greenland_500g.jpg"
   },
   {
     "Product Name": "Taj baba Ghanouj 375g",
     "Category": "canned food",
     "Price": "185,000",
     "Code": "6924514652294",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/taj_baba_ghanouj_375g.jpg"
   },
   {
     "Product Name": "nina sea tuna",
@@ -1467,28 +1493,32 @@
     "Category": "canned food",
     "Price": "60,000",
     "Code": "252239",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/nina_green_peas_400g.jpg"
   },
   {
     "Product Name": "Nestle Cerelac 125g ",
     "Category": "canned food",
     "Price": "120,000",
     "Code": "1569",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/nestle_cerelac_125g_.jpg"
   },
   {
     "Product Name": "Namlya Chickpeas Boiled 900g",
     "Category": "canned food",
     "Price": "60,000",
     "Code": "1736",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/namlya_chickpeas_boiled_900g.jpg"
   },
   {
     "Product Name": "picon cheese 16 portions",
     "Category": "canned food",
     "Price": "250,000",
     "Code": "6924514651527",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/picon_cheese_16_portions.jpg"
   },
   {
     "Product Name": "Taj Premium Soup 50g",
