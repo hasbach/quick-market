@@ -425,7 +425,8 @@
     "Category": "Miscellaneous",
     "Price": "140,000",
     "Code": "6924514651799",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/sweet_cotton_mop.jpg"
   },
   {
     "Product Name": "al zahra kids powder",
@@ -1385,7 +1386,8 @@
     "Category": "bread",
     "Price": "65,000",
     "Code": "341",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/kaak_issa.jpg"
   },
   {
     "Product Name": "PL SOL MUSTARD 255ML",
@@ -1716,28 +1718,32 @@
     "Category": "canned food",
     "Price": "80,000",
     "Code": "12",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/mortadela_chicken_taghzia_200g.jpg"
   },
   {
     "Product Name": "Gold Garden Sliced Mushroom 400g",
     "Category": "canned food",
     "Price": "70,000",
     "Code": "6924514652111",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/gold_garden_sliced_mushroom_400g.jpg"
   },
   {
     "Product Name": "Glendy Pickles 600g",
     "Category": "canned food",
     "Price": "90,000",
     "Code": "6924514651975",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/glendy_pickles_600g.jpg"
   },
   {
     "Product Name": "Ghandour Tahini 350g",
     "Category": "canned food",
     "Price": "230,000",
     "Code": "1705",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/ghandour_tahini_350g.jpg"
   },
   {
     "Product Name": "Foul mdamas chtoura land 600g",
@@ -1751,63 +1757,72 @@
     "Category": "canned food",
     "Price": "130,000",
     "Code": "6924514651738",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/deroni_mushrooms_slices__400gr_.jpg"
   },
   {
     "Product Name": "deroni mushroom whole 400g",
     "Category": "canned food",
     "Price": "140,000",
     "Code": "461",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/deroni_mushroom_whole_400g.jpg"
   },
   {
     "Product Name": "cucumber pickles Crown 600g",
     "Category": "canned food",
     "Price": "170,000",
     "Code": "1658",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/cucumber_pickles_crown_600g.jpg"
   },
   {
     "Product Name": "green peas with carrots chtoura garden",
     "Category": "canned food",
     "Price": "47,000",
     "Code": "17",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/green_peas_with_carrots_chtoura_garden.jpg"
   },
   {
     "Product Name": "Cornichon Crown 360g",
     "Category": "canned food",
     "Price": "175,000",
     "Code": "1458",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/cornichon_crown_360g.jpg"
   },
   {
     "Product Name": "Baba Ghanouj Chtoura Garden 370g",
     "Category": "canned food",
     "Price": "120,000",
     "Code": "6924514652146",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/baba_ghanouj_chtoura_garden_370g.jpg"
   },
   {
     "Product Name": "Avila Tomato paste 660g",
     "Category": "canned food",
     "Price": "150,000",
     "Code": "6924514651653",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/avila_tomato_paste_660g.jpg"
   },
   {
     "Product Name": "avila tahini 400gr ",
     "Category": "canned food",
     "Price": "150,000",
     "Code": "6924514651616",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/avila_tahini_400gr_.jpg"
   },
   {
     "Product Name": "Avila mloukhyeh 200g",
     "Category": "canned food",
     "Price": "130,000",
     "Code": "1554",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/avila_mloukhyeh_200g.jpg"
   },
   {
     "Product Name": "Avila beans and chickpeas 400gr",
