@@ -1070,7 +1070,8 @@
     "Category": "Stationery",
     "Price": "30,000",
     "Code": "1570",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/eraser_toy.jpg"
   },
   {
     "Product Name": "eraser Oneway",
@@ -2060,28 +2061,32 @@
     "Category": "cheese",
     "Price": "1,200,000",
     "Code": "1580",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/puck_shredded_mozarella_1_8kg.jpg"
   },
   {
     "Product Name": "picon cheese 8 portions",
     "Category": "cheese",
     "Price": "140,000",
     "Code": "448",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/picon_cheese_8_portions.jpg"
   },
   {
     "Product Name": "Farm Land Akkaoui",
     "Category": "cheese",
     "Price": "900,000",
     "Code": "6924514651995",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/farm_land_akkaoui.jpg"
   },
   {
     "Product Name": "new park squeeze cheese 300g",
     "Category": "cheese",
     "Price": "166,000",
     "Code": "6924514651371",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/new_park_squeeze_cheese_300g.jpg"
   },
   {
     "Product Name": "new park creamy cheese",
@@ -2095,63 +2100,72 @@
     "Category": "cheese",
     "Price": "290,000",
     "Code": "6924514651891",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/liban_lait_accaoui_cheese.jpg"
   },
   {
     "Product Name": "Bella Kashkaval cheese 400g",
     "Category": "cheese",
     "Price": "430,000",
     "Code": "6924514652091",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/bella_kashkaval_cheese_400g.jpg"
   },
   {
     "Product Name": "Bella Kashkaval 250g",
     "Category": "cheese",
     "Price": "260,000",
     "Code": "1676",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/bella_kashkaval_250g.jpg"
   },
   {
     "Product Name": "Bella cheese square 12 pcs",
     "Category": "cheese",
     "Price": "150,000",
     "Code": "6924514651844",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/bella_cheese_square_12_pcs.jpg"
   },
   {
     "Product Name": "picon cheese 32 portions",
     "Category": "cheese",
     "Price": "480,000",
     "Code": "1536",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/picon_cheese_32_portions.jpg"
   },
   {
     "Product Name": "marlboro craft compact",
     "Category": "cigarettes and molassal",
     "Price": "120,000",
     "Code": "1232",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/marlboro_craft_compact.jpg"
   },
   {
     "Product Name": "MARLBORO GOLD ",
     "Category": "cigarettes and molassal",
     "Price": "260,000",
     "Code": "892",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/marlboro_gold_.jpg"
   },
   {
     "Product Name": "marlboro red",
     "Category": "cigarettes and molassal",
     "Price": "200,000",
     "Code": "124",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/marlboro_red.jpg"
   },
   {
     "Product Name": "Marlboro White",
     "Category": "cigarettes and molassal",
     "Price": "200,000",
     "Code": "252093",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/marlboro_white.jpg"
   },
   {
     "Product Name": "marlboro white craft",
@@ -6687,8 +6701,8 @@
     "Category": "snacks and candy",
     "Price": "60,000",
     "Code": "158",
-    "imageLink": "public/images/marschocolate.jpg",
-    "localImage": "public/images/marschocolate.jpg"
+    "imageLink": "marschocolate.jpg",
+    "localImage": "marschocolate.jpg"
   },
   {
     "Product Name": "Maretti Bruschette chips 70g",
