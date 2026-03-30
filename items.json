@@ -64,6 +64,14 @@
     "localImage": "/images/tora_bika_capp_no_sugar.jpg"
   },
   {
+    "Product Name": "tora bika cappuccino",
+    "Category": "coffee",
+    "Price": "20,000",
+    "Code": "238",
+    "imageLink": "",
+    "localImage": "/images/tora_bika_cappuccino.jpg"
+  },
+  {
     "Product Name": "Nescaffe Classic",
     "Category": "coffee",
     "Price": "25,000",
@@ -96,9 +104,25 @@
     "localImage": "/images/master_chips_80g.jpg"
   },
   {
+    "Product Name": "master chips 180g",
+    "Category": "Chips",
+    "Price": "90,000",
+    "Code": "6924514651901",
+    "imageLink": "",
+    "localImage": "/images/master_chips_180g.jpg"
+  },
+  {
+    "Product Name": "master chips 34g",
+    "Category": "Chips",
+    "Price": "25,000",
+    "Code": "5283003304114",
+    "imageLink": "",
+    "localImage": "/images/master_chips_34g.jpg"
+  },
+  {
     "Product Name": "master chips small 16gr ",
     "Category": "Chips",
-    "Price": "10,000",
+    "Price": "15,000",
     "Code": "452",
     "imageLink": "",
     "localImage": "/images/master_chips_small_16gr_.jpg"
@@ -190,6 +214,14 @@
     "Code": "252205",
     "imageLink": "",
     "localImage": "/images/kibbeh_michwiyeh_meat_2_pcs.jpg"
+  },
+  {
+    "Product Name": "Kibbeh Krass 1 pcs",
+    "Category": "Frozen",
+    "Price": "90,000",
+    "Code": "252204",
+    "imageLink": "",
+    "localImage": "/images/kibbeh_krass_1_pcs.jpg"
   },
   {
     "Product Name": "Grape Leaves Meat 750g",
@@ -306,7 +338,7 @@
   {
     "Product Name": "argili charcoal ",
     "Category": "Miscellaneous",
-    "Price": "160,000",
+    "Price": "230,000",
     "Code": "786",
     "imageLink": "",
     "localImage": "/images/argili_charcoal_.jpg"
@@ -1093,6 +1125,21 @@
     "localImage": "/images/cedars_long_silver.jpg"
   },
   {
+    "Product Name": "cedars super slim silv",
+    "Category": "cigarettes and molassal",
+    "Price": "80,000",
+    "Code": "5287000107723",
+    "imageLink": ""
+  },
+  {
+    "Product Name": "cedars queen blue",
+    "Category": "cigarettes and molassal",
+    "Price": "80,000",
+    "Code": "6924514652278",
+    "imageLink": "",
+    "localImage": "/images/cedars_queen_blue.jpg"
+  },
+  {
     "Product Name": "Gauloises yellow slim",
     "Category": "cigarettes and molassal",
     "Price": "80,000",
@@ -1414,126 +1461,144 @@
     "Category": "cleaning and detergents",
     "Price": "790,000",
     "Code": "265",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/bonux_4kg.jpg"
   },
   {
     "Product Name": "collagen soap",
     "Category": "cleaning and detergents",
     "Price": "140,000",
     "Code": "884",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/collagen_soap.jpg"
   },
   {
     "Product Name": "comfort Fabric Freshness 1L",
     "Category": "cleaning and detergents",
     "Price": "220,000",
     "Code": "1542",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/comfort_fabric_freshness_1l.jpg"
   },
   {
     "Product Name": "noura shampoo 1250ml",
     "Category": "cleaning and detergents",
     "Price": "240,000",
     "Code": "43",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/noura_shampoo_1250ml.jpg"
   },
   {
     "Product Name": "Vanich offer x2",
     "Category": "cleaning and detergents",
     "Price": "800,000",
     "Code": "1713",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/vanich_offer_x2.jpg"
   },
   {
     "Product Name": "ultra doux shampoo 400ml",
     "Category": "cleaning and detergents",
     "Price": "330,000",
     "Code": "586",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/ultra_doux_shampoo_400ml.jpg"
   },
   {
     "Product Name": "happies pants LRG 28pcs",
     "Category": "diappers",
     "Price": "599,000",
     "Code": "383",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/happies_pants_lrg_28pcs.jpg"
   },
   {
     "Product Name": "Liban Lait Halloum cheese",
     "Category": "diaries",
     "Price": "280,000",
     "Code": "6924514652211",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/liban_lait_halloum_cheese.jpg"
   },
   {
     "Product Name": "Laban Baladi 1kg",
     "Category": "diaries",
     "Price": "100,000",
     "Code": "100100",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/laban_baladi_1kg.jpg"
   },
   {
     "Product Name": "laban libanlait 1kg",
     "Category": "diaries",
     "Price": "190,000",
     "Code": "6924514651446",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/laban_libanlait_1kg.jpg"
   },
   {
     "Product Name": "Candia Labneh 450g",
     "Category": "diaries",
     "Price": "300,000",
     "Code": "802",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/candia_labneh_450g.jpg"
   },
   {
     "Product Name": "Ayran candia 250ml",
     "Category": "diaries",
     "Price": "50,000",
     "Code": "1562",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/ayran_candia_250ml.jpg"
   },
   {
     "Product Name": "candia milk 1L",
     "Category": "diaries",
     "Price": "180,000",
     "Code": "815",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/candia_milk_1l.jpg"
   },
   {
     "Product Name": "tora bika capuccino",
     "Category": "coffee",
     "Price": "20,000",
     "Code": "238",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/tora_bika_capuccino.jpg"
   },
   {
     "Product Name": "Rindo 250ml",
     "Category": "drinks",
     "Price": "30,000",
     "Code": "530",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/rindo_250ml.jpg"
   },
   {
     "Product Name": "xtra juice 1 litre",
     "Category": "drinks",
     "Price": "100,000",
     "Code": "855",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/xtra_juice_1_litre.jpg"
   },
   {
     "Product Name": "xxl energy 185ml",
     "Category": "drinks",
     "Price": "40,000",
     "Code": "6924514651485",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/xxl_energy_185ml.jpg"
   },
   {
     "Product Name": "dark blue 330 ml",
     "Category": "drinks",
     "Price": "50,000",
     "Code": "518",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/dark_blue_330_ml.jpg"
   },
   {
     "Product Name": "Bergauf",
