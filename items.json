@@ -1,5 +1,85 @@
 [
   {
+    "Product Name": "star cafe 180g",
+    "Category": "coffee",
+    "Price": "280,000",
+    "Code": "2",
+    "imageLink": "",
+    "localImage": "/images/star_cafe_180g.jpg"
+  },
+  {
+    "Product Name": "Najjar Red 190g",
+    "Category": "coffee",
+    "Price": "450,000",
+    "Code": "1459",
+    "imageLink": "",
+    "localImage": "/images/najjar_red_190g.jpg"
+  },
+  {
+    "Product Name": "NAJJAR cafe 200gr",
+    "Category": "coffee",
+    "Price": "300,000",
+    "Code": "829",
+    "imageLink": "",
+    "localImage": "/images/najjar_cafe_200gr.jpg"
+  },
+  {
+    "Product Name": "domingo cafe 450gr",
+    "Category": "coffee",
+    "Price": "540,000",
+    "Code": "830",
+    "imageLink": "",
+    "localImage": "/images/domingo_cafe_450gr.jpg"
+  },
+  {
+    "Product Name": "domingo cafe 200g",
+    "Category": "coffee",
+    "Price": "260,000",
+    "Code": "1",
+    "imageLink": "",
+    "localImage": "/images/domingo_cafe_200g.jpg"
+  },
+  {
+    "Product Name": "carioca cafe 400g",
+    "Category": "coffee",
+    "Price": "650,000",
+    "Code": "31",
+    "imageLink": "",
+    "localImage": "/images/carioca_cafe_400g.jpg"
+  },
+  {
+    "Product Name": "carioca cafe 180g",
+    "Category": "coffee",
+    "Price": "290,000",
+    "Code": "3",
+    "imageLink": "",
+    "localImage": "/images/carioca_cafe_180g.jpg"
+  },
+  {
+    "Product Name": "tora bika capp no sugar",
+    "Category": "coffee",
+    "Price": "20,000",
+    "Code": "549",
+    "imageLink": "",
+    "localImage": "/images/tora_bika_capp_no_sugar.jpg"
+  },
+  {
+    "Product Name": "Nescaffe Classic",
+    "Category": "coffee",
+    "Price": "25,000",
+    "Code": "351",
+    "imageLink": "",
+    "localImage": "/images/nescaffe_classic.jpg"
+  },
+  {
+    "Product Name": "nescafe 2 in 1",
+    "Category": "coffee",
+    "Price": "25,000",
+    "Code": "197",
+    "imageLink": "",
+    "localImage": "/images/nescafe_2_in_1.jpg"
+  },
+  {
     "Product Name": "Pringles",
     "Category": "Chips",
     "Price": "80,000",
@@ -156,7 +236,8 @@
     "Category": "Frozen",
     "Price": "330,000",
     "Code": "6924514651837",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/plein__soleil_potato_wedges_900g.jpg"
   },
   {
     "Product Name": "shaving brush ameca",
@@ -275,7 +356,8 @@
     "Category": "Miscellaneous",
     "Price": "50,000",
     "Code": "1343",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/carton_cups_3_oz.jpg"
   },
   {
     "Product Name": "Carpet Brush",
@@ -322,7 +404,8 @@
     "Category": "Miscellaneous",
     "Price": "100,000",
     "Code": "6924514652393",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/carton_cups_9_oz.jpg"
   },
   {
     "Product Name": "El sada gel 100ml",
@@ -528,7 +611,8 @@
     "Category": "canned food",
     "Price": "100,000",
     "Code": "1177",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/plein_soleil_sardines_oil_125gr.jpg"
   },
   {
     "Product Name": "Tahina Alameddine 400g",
@@ -676,7 +760,7 @@
   {
     "Product Name": "mortadela chicken taghzia 200g",
     "Category": "canned food",
-    "Price": "80,000",
+    "Price": "100,000",
     "Code": "12",
     "imageLink": "",
     "localImage": "/images/mortadela_chicken_taghzia_200g.jpg"
@@ -748,7 +832,7 @@
   {
     "Product Name": "mortadela beef taghzia 200g",
     "Category": "canned food",
-    "Price": "90,000",
+    "Price": "110,000",
     "Code": "13",
     "imageLink": "",
     "localImage": "/images/mortadela_beef_taghzia_200g.jpg"
@@ -768,14 +852,6 @@
     "Code": "702",
     "imageLink": "",
     "localImage": "/images/marwa_tomato_paste_400g.jpg"
-  },
-  {
-    "Product Name": "Makdous Namlyetna 500g",
-    "Category": "canned food",
-    "Price": "300,000",
-    "Code": "1390",
-    "imageLink": "",
-    "localImage": "/images/makdous_namlyetna_500g.jpg"
   },
   {
     "Product Name": "Makdous Namlyetna 1350g",
@@ -808,14 +884,6 @@
     "Code": "252102",
     "imageLink": "",
     "localImage": "/images/magic_chef_low_sodium_350g.jpg"
-  },
-  {
-    "Product Name": "Lio Sweet Corn 380g",
-    "Category": "canned food",
-    "Price": "70,000",
-    "Code": "252269",
-    "imageLink": "",
-    "localImage": "/images/lio_sweet_corn_380g.jpg"
   },
   {
     "Product Name": "khamira domo",
@@ -1069,7 +1137,8 @@
     "Category": "cleaning and detergents",
     "Price": "60,000",
     "Code": "275",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/javel_dimex_1_l.jpg"
   },
   {
     "Product Name": "La Croix Javel 1L",
@@ -1196,7 +1265,8 @@
     "Category": "cleaning and detergents",
     "Price": "80,000",
     "Code": "292",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/dimex_general_cleaner_800ml.jpg"
   },
   {
     "Product Name": "Dimex Glass Cleaner",
@@ -1251,35 +1321,40 @@
     "Category": "cleaning and detergents",
     "Price": "100,000",
     "Code": "845",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/dove_soap.jpg"
   },
   {
     "Product Name": "El Sada Baby Cologne 300ml",
     "Category": "cleaning and detergents",
     "Price": "150,000",
     "Code": "1649",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/el_sada_baby_cologne_300ml.jpg"
   },
   {
     "Product Name": "El sada baby oil spray 200ml",
     "Category": "cleaning and detergents",
     "Price": "160,000",
     "Code": "6924514652244",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/el_sada_baby_oil_spray_200ml.jpg"
   },
   {
     "Product Name": "El Sada Hand Liquid Soap 440ml",
     "Category": "cleaning and detergents",
     "Price": "80,000",
     "Code": "6924514651921",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/el_sada_hand_liquid_soap_440ml.jpg"
   },
   {
     "Product Name": "el sada spray sanitizer 100ml",
     "Category": "cleaning and detergents",
     "Price": "60,000",
     "Code": "1762",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/el_sada_spray_sanitizer_100ml.jpg"
   },
   {
     "Product Name": "Elvive loreal 400ml",
@@ -1300,28 +1375,32 @@
     "Category": "cleaning and detergents",
     "Price": "100,000",
     "Code": "274",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/flash_dimex_1l.jpg"
   },
   {
     "Product Name": "FLash spartan 1L",
     "Category": "cleaning and detergents",
     "Price": "290,000",
     "Code": "834",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/flash_spartan_1l.jpg"
   },
   {
     "Product Name": "Germex Cleaner 1.2L",
     "Category": "cleaning and detergents",
     "Price": "220,000",
     "Code": "742",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/germex_cleaner_1_2l.jpg"
   },
   {
     "Product Name": "ghada shaving cream",
     "Category": "cleaning and detergents",
     "Price": "100,000",
     "Code": "117",
-    "imageLink": ""
+    "imageLink": "",
+    "localImage": "/images/ghada_shaving_cream.jpg"
   },
   {
     "Product Name": "El Sada Shower gel 750ml",
@@ -1370,62 +1449,6 @@
     "Category": "cleaning and detergents",
     "Price": "330,000",
     "Code": "586",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "star cafe 180g",
-    "Category": "coffee",
-    "Price": "280,000",
-    "Code": "2",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "Najjar Red 190g",
-    "Category": "coffee",
-    "Price": "450,000",
-    "Code": "1459",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "NAJJAR cafe 200gr",
-    "Category": "coffee",
-    "Price": "300,000",
-    "Code": "829",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "domingo cafe 450gr",
-    "Category": "coffee",
-    "Price": "540,000",
-    "Code": "830",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "domingo cafe 200g",
-    "Category": "coffee",
-    "Price": "260,000",
-    "Code": "1",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "carioca cafe 400g",
-    "Category": "coffee",
-    "Price": "650,000",
-    "Code": "31",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "carioca cafe 180g",
-    "Category": "coffee",
-    "Price": "290,000",
-    "Code": "3",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "tora bika capp no sugar",
-    "Category": "coffee",
-    "Price": "20,000",
-    "Code": "549",
     "imageLink": ""
   },
   {
@@ -1594,13 +1617,6 @@
     "Category": "drinks",
     "Price": "25,000",
     "Code": "6924514651794",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "nescafe 2 in 1",
-    "Category": "drinks",
-    "Price": "25,000",
-    "Code": "197",
     "imageLink": ""
   },
   {
@@ -1891,83 +1907,6 @@
     "imageLink": ""
   },
   {
-    "Product Name": "alraiif extra makchuf 300g",
-    "Category": "nuts",
-    "Price": "200,000",
-    "Code": "982",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "almonds smoked 30g ",
-    "Category": "nuts",
-    "Price": "70,000",
-    "Code": "958",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "al rifai nuts offer",
-    "Category": "nuts",
-    "Price": "417,000",
-    "Code": "110",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "Al raiif sunflower seeds 70g",
-    "Category": "nuts",
-    "Price": "50,000",
-    "Code": "599",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "Al raiif salted peanuts 60gr ",
-    "Category": "nuts",
-    "Price": "45,000",
-    "Code": "6924514651572",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "Al raiif mixed nuts medium 100g",
-    "Category": "nuts",
-    "Price": "100,000",
-    "Code": "1110",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "Al raiif extra mixed nuts 200g",
-    "Category": "nuts",
-    "Price": "170,000",
-    "Code": "1222",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "Al raiif egyptian seeds 20g",
-    "Category": "nuts",
-    "Price": "10,000",
-    "Code": "645",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "Al raiif  mixed nuts standard 160g",
-    "Category": "nuts",
-    "Price": "125,000",
-    "Code": "983",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "Al Amin sunflower seeds 150g",
-    "Category": "nuts",
-    "Price": "70,000",
-    "Code": "6924514652177",
-    "imageLink": ""
-  },
-  {
-    "Product Name": "cashew al raiif 30g",
-    "Category": "nuts",
-    "Price": "60,000",
-    "Code": "642",
-    "imageLink": ""
-  },
-  {
     "Product Name": "Castania Sunflower seeds 150g",
     "Category": "nuts",
     "Price": "100,000",
@@ -2129,16 +2068,16 @@
     "imageLink": ""
   },
   {
-    "Product Name": "sunflower oil 5l",
+    "Product Name": "Plein solei butter 200g",
     "Category": "oil",
-    "Price": "900,000",
-    "Code": "",
+    "Price": "240,000",
+    "Code": "6924514651468",
     "imageLink": ""
   },
   {
     "Product Name": "Macrol Sunflower oil 4.5L",
     "Category": "oil",
-    "Price": "750,000",
+    "Price": "900,000",
     "Code": "6924514652322",
     "imageLink": ""
   },

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <link href="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/699a1d599be70051f84ddba4/6261e56b2_logo.png" rel="icon" type="image/svg+xml"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="/manifest.json" rel="manifest"/>
+  <title>
+   wp-content | Albasem International
+  </title>
+  <meta content="Albasem Group General Trading LLC — Dubai-based import, export, and general trading solutions for B2B clients across the UAE, GCC, and global markets. Licensed in the UAE." name="description"/>
+  <meta content="general trading company dubai, import export UAE, trading company dubai, B2B trade solutions, UAE import export" name="keywords"/>
+  <meta content="index, follow" name="robots"/>
+  <meta content="Albasem Group General Trading LLC" name="author"/>
+  <link href="https://albasemgroup.com/" rel="canonical"/>
+  <!-- Open Graph -->
+  <meta content="website" property="og:type"/>
+  <meta content="https://albasemgroup.com/" property="og:url"/>
+  <meta content="Albasem Group | General Trading, Import &amp; Export | Dubai" property="og:title"/>
+  <meta content="Dubai-based general trading company. End-to-end import, export, and B2B procurement solutions for the UAE and GCC markets." property="og:description"/>
+  <meta content="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&amp;q=80" property="og:image"/>
+  <meta content="Albasem Group" property="og:site_name"/>
+  <!-- Twitter -->
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Albasem Group | General Trading Dubai" name="twitter:title"/>
+  <meta content="Dubai-based general trading company — import, export, and B2B procurement for the UAE and GCC." name="twitter:description"/>
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect"/>
+  <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&amp;display=swap" rel="stylesheet"/>
+  <!-- Organization Structured Data -->
+  <script type="application/ld+json">
+   {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "Albasem Group",
+      "url": "https://albasemgroup.com",
+      "logo": "https://albasemgroup.com/logo.png",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Dubai",
+        "addressCountry": "AE"
+      },
+      "areaServed": "UAE"
+    }
+  </script>
+  <script crossorigin="" src="/assets/index-DmaGOnVj.js" type="module">
+  </script>
+  <link crossorigin="" href="/assets/index-Bg05pg1D.css" rel="stylesheet"/>
+  <meta content="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/render/image/public/base44-prod/public/699a1d599be70051f84ddba4/6261e56b2_logo.png?width=1200&amp;height=630&amp;resize=contain" name="twitter:image"/>
+  <meta content="https://albasemgroup.com/wp-content/uploads/2024/03/Untitled-design-21.jpg" name="twitter:url"/>
+  <meta content="yes" name="mobile-web-app-capable"/>
+  <meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+  <meta content="Albasem International" name="apple-mobile-web-app-title"/>
+ </head>
+ <body>
+  <div id="root">
+  </div>
+ </body>
+</html>
